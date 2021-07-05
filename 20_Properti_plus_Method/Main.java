@@ -9,5 +9,6 @@ public class Main{
 		hewan.jalan();
 		hewan.lari();
 		hewan.cetakInfo();
+		System.out.println(hewan.tinggi+hewan.tinggi);
 	}
 }
